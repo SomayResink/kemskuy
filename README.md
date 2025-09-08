@@ -1,34 +1,50 @@
 # Hi there, I'm Kemal Yahya 👋
 
 ## 🧑‍💻 About Me
-I'm a **high school student (XI)** with a passion for programming, technology, and exploring new ideas.
+I'm a **high school student (XI)** passionate about programming, technology, and exploring new ideas.
 
 ---
 
 ## 💻 Skills & Interests
-- **Programming Languages:** JavaScript, Dart/Flutter, PHP, Laravel, Node.js  
-- **Projects:** Games, web apps, chat systems, POS systems, Twitter-like thread system  
-- **Other Interests:** Music, languages, AI, interactive coding projects
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Projects
+- Games, web apps, chat systems, POS systems, Twitter-like thread system  
+- Experimenting with interactive coding projects
+
+### Other Interests
+- Music 🎵  
+- Languages 🌎 (English, French, Tamil, Hebrew)  
+- AI & Technology 🤖
 
 ---
 
-## 🎯 Learning Style & Communication
-- Prefer **hands-on practice** over long theory  
-- Love **experimenting with code** and creating mini-projects  
-- Enjoy chatting in multiple languages (English, French, Tamil, Hebrew)  
-- Curious, playful, and open to imaginative or absurd ideas
+## 🎯 Learning Style
+- Hands-on practice > long theory  
+- Likes to experiment & build mini-projects  
+- Curious, playful, and loves imaginative ideas
 
 ---
 
 ## 🌟 Personality
-- Inquisitive and always exploring new things  
-- Humorous, relaxed, and adventurous in learning  
-- Often prefers **“just do it” coding style** rather than reading too much theory
+- Inquisitive and adventurous  
+- Humorous and relaxed  
+- Prefers “just do it” coding style
 
 ---
 
 ## 🔭 GitHub Goals
-- Share my projects and experiments  
+- Share projects and experiments  
 - Improve coding skills through real-world projects  
-- Collaborate and learn from the community
+- Collaborate & learn from the community
 
+---
+
+## 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:much.edika@gmail.com)
