@@ -1,44 +1,34 @@
-# 👋 Hi, I'm Your Name
+# Hi there, I'm Kemal Yahya 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/username?label=Followers&style=social)](https://github.com/username)
-[![GitHub stars](https://img.shields.io/github/stars/username?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/username?tab=repositories)
-
----
-
-## 🚀 About Me
-- 💻 I’m currently learning **Laravel, Flutter, and Web Development**
-- 🌱 I love building apps & experimenting with new tech
-- 🎯 Goals: Become a full-stack developer & contribute to open source
-- ⚡ Fun fact: I debug with coffee ☕ + music 🎧
+## 🧑‍💻 About Me
+I'm a **high school student (XI)** with a passion for programming, technology, and exploring new ideas.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,flutter,dart,mysql,git,github,vscode" />
-</p>
+## 💻 Skills & Interests
+- **Programming Languages:** JavaScript, Dart/Flutter, PHP, Laravel, Node.js  
+- **Projects:** Games, web apps, chat systems, POS systems, Twitter-like thread system  
+- **Other Interests:** Music, languages, AI, interactive coding projects
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## 🎯 Learning Style & Communication
+- Prefer **hands-on practice** over long theory  
+- Love **experimenting with code** and creating mini-projects  
+- Enjoy chatting in multiple languages (English, French, Tamil, Hebrew)  
+- Curious, playful, and open to imaginative or absurd ideas
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-</p>
+## 🌟 Personality
+- Inquisitive and always exploring new things  
+- Humorous, relaxed, and adventurous in learning  
+- Often prefers **“just do it” coding style** rather than reading too much theory
 
 ---
 
-⭐️ From [username](https://github.com/username)
+## 🔭 GitHub Goals
+- Share my projects and experiments  
+- Improve coding skills through real-world projects  
+- Collaborate and learn from the community
+
