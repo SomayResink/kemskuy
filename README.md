@@ -48,3 +48,16 @@ I'm a **high school student (XI)** passionate about programming, technology, and
 
 ## 📫 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahaykemal@gmail.com)
+
+
+# Hi there 👋
+
+## ⚡ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomayResink&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=SomayResink&theme=tokyonight&hide_border=true)
+
+## 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomayResink&layout=compact&theme=tokyonight)
+
