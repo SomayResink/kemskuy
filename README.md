@@ -49,7 +49,6 @@ I'm a **high school student (XI)** passionate about programming, technology, and
 ## 📫 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahaykemal@gmail.com)
 
-
 # Hi there 👋
 
 ## ⚡ GitHub Stats
